@@ -31,5 +31,17 @@ This is the workflow we follow when we need to add a new feature to our project
 * Create a pull request
 * Merge changes back to main branch
 
+## Working Locally
+When you work locally, your files exist in four different forms
+1. Untracked: This is a file that has never been committed
+2. Modified: This is a file that has been committed but has just recently been edited
+3. Staged: This is a file that has been added to the staging area with the `git add` command
+4. Committed: This is a file that has already been committed with the `git commit` command
+
+We have the:
+* Working area: consists of untracked and modified files
+* Staging area: consits of staged files
+* History: consists of committed files
+
 ## Author
 * Olayinkascott Andee (andeeolayinkascott@gmail.com)
