@@ -43,5 +43,8 @@ We have the:
 * Staging area: consits of staged files
 * History: consists of committed files
 
+## Resources
+* Github training Manual [here](https://githubtraining.github.io/training-manual/#/)
+
 ## Author
 * Olayinkascott Andee (andeeolayinkascott@gmail.com)
