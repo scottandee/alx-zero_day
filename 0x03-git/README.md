@@ -18,7 +18,18 @@ Git is the underlying version control system for managing code. Github is the we
 Git.
 
 ## Git Cheatsheet
-Here's a [git cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/) for remembering the commands 
+Here's a [git cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/) for remembering the commands
+
+## The Github Workflow
+This is the workflow we follow when we need to add a new feature to our project
+<p align="center">
+  <img src="https://githubtraining.github.io/training-manual/img/github-workflow.png"  width="60%" height="30%" align="center">
+</p>
+
+* Create an new branch
+* Write code for new feature and commit the changes
+* Create a pull request
+* Merge changes back to main branch
 
 ## Author
 * Olayinkascott Andee (andeeolayinkascott@gmail.com)
